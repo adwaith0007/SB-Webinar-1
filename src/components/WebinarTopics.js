@@ -2,7 +2,7 @@ import React from "react";
 import ReactPlayer from "react-player";
 import img from "../assets/body3/wepik--202256-124419 1.png";
 
-function Body3() {
+function WebinarTopics() {
   return (
     <div className="h-[100%] bg-black     w-full flex flex-col justify-center md:flex-col  items-center p-10 md:p-10 gap-10 ">
       <div className="w-full flex justify-center">
@@ -658,4 +658,4 @@ function Body3() {
   );
 }
 
-export default Body3;
+export default WebinarTopics;

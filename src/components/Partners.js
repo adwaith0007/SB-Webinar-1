@@ -8,7 +8,7 @@ import "./Partners.css";
 
 function Partners() {
   return (
-    <div className="h-[100vh] w-full  ">
+    <div className="h-[70vh] w-full  ">
       <div id="ticker" >
         <div class="title" className="mt-20" ></div>
         <ul>
